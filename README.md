@@ -1,11 +1,6 @@
 # BRLMPrinterKit
 
-[![CI Status](https://img.shields.io/travis/jonathantribouharet/BRLMPrinterKit.svg?style=flat)](https://travis-ci.org/jonathantribouharet/BRLMPrinterKit)
-[![Version](https://img.shields.io/cocoapods/v/BRLMPrinterKit.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit)
-[![License](https://img.shields.io/cocoapods/l/BRLMPrinterKit.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit)
-[![Platform](https://img.shields.io/cocoapods/p/BRLMPrinterKit.svg?style=flat)](https://cocoapods.org/pods/BRLMPrinterKit)
-
-This project is only a Pod for the Brother SDK v4.0.2.
+This project is only a Pod for the Brother SDK v4.6.4.
 
 More information here:
 [https://support.brother.com/g/s/es/htmldoc/mobilesdk/index.html](https://support.brother.com/g/s/es/htmldoc/mobilesdk/index.html)
@@ -13,22 +8,21 @@ More information here:
 
 ## Requirements
 
-- iOS 9.0 or higher
+- iOS 10.0 or higher
 
 ## Installation
 
-BRLMPrinterKit is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+To install it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'BRLMPrinterKit'
+pod 'BrotherPrintersSDK', :git => 'https://github.com/<Your-Git-Username>/BrotherPrintersSDK.git'
 ```
 
 ## Author
 
-- [Jonathan VUKOVICH TRIBOUHARET](https://github.com/jonathantribouharet) ([@johnvuko](https://twitter.com/johnvuko))
+- [Davide Morotti](https://github.com/davidemorotti) ([@davidemorotti](https://twitter.com/davidemorotti))
 
 
 ## License
 
-BRLMPrinterKit is available under the MIT license. See the LICENSE file for more info.
+BrotherPrintersSDK is available under the MIT license. See the LICENSE file for more info.

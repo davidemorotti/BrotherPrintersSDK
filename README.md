@@ -15,7 +15,7 @@ More information here:
 To install it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'BrotherPrintersSDK', :git => 'https://github.com/<Your-Git-Username>/BrotherPrintersSDK.git'
+pod 'BrotherPrintersSDK', :git => 'https://github.com/davidemorotti/BrotherPrintersSDK.git'
 ```
 
 ## Author
